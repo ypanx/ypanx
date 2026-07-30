@@ -1,10 +1,12 @@
 Hi there 👋 
 
-I am a Software Engineer at Abnormal Security, focusing primarily on backend development and data. 
+I am a Software Engineer at Abnormal AI, focused on backend development. 
 
 Socials: [LinkedIn](https://www.linkedin.com/in/john-pan-/)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ypanx/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="49%" />
-  <img src="https://raw.githubusercontent.com/ypanx/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="49%" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ypanx/my-github-stats/main/cards/activity.svg" width="50%" />
+  <img src="https://raw.githubusercontent.com/ypanx/my-github-stats/main/cards/languages.svg" width="50%" />
 </p>
+
+Full dashboard: [Github Stats](https://ypanx.github.io/my-github-stats/dashboard/).
